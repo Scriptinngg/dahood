@@ -1,0 +1,151 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptinngg/ctool/main/ctoolv3"))()
+local Flux = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/fluxlib.txt")()
+
+local win = Flux:Window("NS Hub", "wydnico on yt ", Color3.fromRGB(255, 110, 48), Enum.KeyCode.C)
+
+local tab = win:Tab("Da Hood Guis", "http://www.roblox.com/asset/?id=6023426915")
+
+tab:Button("Swagmode", "This only works on !", function()
+Flux:Notification("Gui Launched", "Alright")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
+end)
+
+
+tab:Button("Faded ", "no desc!", function()
+Flux:Notification("Gui Launched", "Alright")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic", true))()
+end)
+
+
+
+tab:Button("Spaceware", "no desc!", function()
+Flux:Notification("Gui Launched", "Alright")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Maxiiiiiiiiiiiiiiiiiiiiiii/spaceware/main/spaceware'))()
+end)
+
+
+tab:Button("RayX", "no desc!", function()
+Flux:Notification("Gui Launched", "Alright")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SpaceYes/Lua/Main/DaHood.Lua'))()
+end)
+
+tab:Button("Pluto", "no desc!", function()
+Flux:Notification("Gui Launched", "Alright")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Scrvpter/Pluto/Lua/Loader.Lua', true))()
+end)
+
+
+tab:Button("DinoWare", "no desc!", function()
+Flux:Notification("Gui Launched", "Alright")
+loadstring(game:HttpGet("https://scriptblox.com/raw/Da-Hood-DinoWare-2135"))()
+end)
+
+tab:Button("Terminator", "no desc!", function()
+Flux:Notification("Gui Launched", "Alright")
+loadstring(game:HttpGet("https://scriptblox.com/raw/Da-Hood-Terminator-X-1.25-Da-Hood-GUI-made-by-aliW9824-(op)-4000"))()
+end)
+
+local tab = win:Tab("Da Hood Locks", "http://www.roblox.com/asset/?id=6023426915")
+
+tab:Button("🐶 |wuss-cc", "no desc!", function()
+Flux:Notification("Lock Launched", "Alright")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptinngg/wuss-cc/main/wuss%20private"))()
+end)
+
+tab:Button("💫 |NSL AIMLOCK", "no desc!", function()
+Flux:Notification("Lock Launched", "Alright")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptinngg/EZ/main/EZ"))()
+end)
+
+tab:Button("🐱| kittenblack-cc", "no desc!", function()
+Flux:Notification("Lock Launched", "Alright")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptinngg/kittenblack/main/kitten%20black"))()
+end)
+
+tab:Button("♋️ | reborn", "no desc!", function()
+Flux:Notification("Lock Launched", "Alright")
+loadstring(game:HttpGet("https://pastebin.com/raw/iNd3xTPv"))()
+end)
+
+tab:Button("🟪 | purple lock", "no desc!", function()
+Flux:Notification("Lock Launched", "Alright")
+loadstring(game:HttpGet("https://pastebin.com/raw/j08xM9mW", true))()
+end)
+
+tab:Button("⬜️ |white box lock ", "no desc!", function()
+Flux:Notification("Lock Launched", "Alright")
+
+end)
+
+tab:Button("👑 | nicoW aimlock ", "no desc!", function()
+Flux:Notification("Lock Launched", "Alright")
+loadstring(game:HttpGet("https://github.com/Scriptinngg/nicoW/blob/main/nicoW"))()
+end)
+
+tab:Button("🤑 | xeno leaked", "no desc!", function()
+Flux:Notification("Lock Launched", "Alright")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptinngg/locks/main/xeno%20x%20nico"))()
+end)
+
+tab:Button("⚡️ | flash lock", "no desc!", function()
+Flux:Notification("Lock Launched", "Alright")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptinngg/FlashLock/main/nicoscripts%20flash"))()
+end)
+
+tab:Button("🤑 | solos paid ", "no desc!", function()
+Flux:Notification("Lock Launched", "Alright")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptinngg/solospaid/main/solospaidlock"))()
+end)
+
+tab:Button("💥 | kals lock", "no desc!", function()
+Flux:Notification("Lock Launched", "Alright")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptinngg/kals-lock/main/kalslock"))()
+end)
+
+local tab = win:Tab("MISCS", "http://www.roblox.com/asset/?id=6023426915")
+
+tab:Button("🔨 | Q tool", "no desc!", function()
+Flux:Notification("Script Launched", "Alright")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/qtoolv3/main/qtoolv3", true))()
+end)
+
+tab:Button("🔨 | C tool", "no desc!", function()
+Flux:Notification("Script Launched", "Alright")
+loadstring(game:HttpGet("https://pastebin.com/raw/NdKvR1kg", true))()
+end)
+
+tab:Button("⌨️ | keyboard", "no desc!", function()
+Flux:Notification("Script Launched", "Alright")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
+tab:Button("💬| chatbypasser", "no desc!", function()
+Flux:Notification("Script Launched", "Alright")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/synnyyy/synergy/additional/betterbypasser",true))()
+end)
+
+tab:Button("♾️|infinite yield¿", "no desc!", function()
+Flux:Notification("Script Launched", "Alright")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+
+tab:Button("✈️ | fly (no ban)", "no desc!", function()
+Flux:Notification("Script Launched", "Alright")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/dahoodios/main/hoodcustomfly"))()
+end)
+
+tab:Button("💨 |fake macro", "no desc!", function()
+Flux:Notification("Script Launched", "Alright")
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/XiqsUXHj", true))()
+end)
+
+tab:Button("❌| antilock", "no desc!", function()
+Flux:Notification("Script Launched", "Alright")
+loadstring(game:HttpGet("https://pastebin.com/raw/btu1UyEq"))()
+end)
+
+tab:Button("🔍|script searcher", "no desc!", function()
+Flux:Notification("Script Launched", "Alright")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/ScriptSearcher"))()
+end)
